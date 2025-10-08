@@ -1,3 +1,6 @@
 Pillow
 IPython
 matplotlib
+numpy
+sklearn
+ipywidgets
