@@ -2,4 +2,4 @@ Pillow
 IPython
 matplotlib
 numpy
-sklearn.cluster
+scikit-learn
